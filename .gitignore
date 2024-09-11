@@ -1,0 +1,24 @@
+﻿
+.vs/
+Migrations
+
+# Compiled source
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.csproj.user
+
+
+# LibMan
+wwwroot/lib/
+
+# Visual Studio files
+.vs/
+.vscode/
+.vscode-test/
