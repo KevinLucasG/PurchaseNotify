@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PurchaseNotify", "PurchaseNotify.csproj", "{3A65052C-0982-4A14-AF85-36C4953B5811}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PurchaseNotifierConsumer", "PurchaseNotifierConsumer.csproj", "{D1AB12C6-E0D9-4C04-AF0E-63C777D2DB95}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3A65052C-0982-4A14-AF85-36C4953B5811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3A65052C-0982-4A14-AF85-36C4953B5811}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3A65052C-0982-4A14-AF85-36C4953B5811}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3A65052C-0982-4A14-AF85-36C4953B5811}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1AB12C6-E0D9-4C04-AF0E-63C777D2DB95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1AB12C6-E0D9-4C04-AF0E-63C777D2DB95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1AB12C6-E0D9-4C04-AF0E-63C777D2DB95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1AB12C6-E0D9-4C04-AF0E-63C777D2DB95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E45A7B54-694B-4446-B879-74FCD516D2B2}
+		SolutionGuid = {99D388A4-CBE2-4A1E-B90F-45D6A78086FF}
 	EndGlobalSection
 EndGlobal
