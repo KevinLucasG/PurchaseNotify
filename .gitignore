@@ -1,0 +1,51 @@
+# Arquivos de configuração do sistema
+.DS_Store
+Thumbs.db
+
+# Diretórios e arquivos do Visual Studio
+.vs/
+*.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Diretórios e arquivos de build e pacotes
+bin/
+obj/
+packages/
+*.nupkg
+*.snupkg
+
+# Arquivos de log
+*.log
+
+# Arquivos de cache
+*.cache
+*.tmp
+*.temp
+*.bak
+
+# Configurações do Rider
+.idea/
+
+# Arquivos de depuração e perfis
+*.pidb
+*.suo
+*.pdb
+*.opendb
+*.vsp
+*.vsps
+*.vssscc
+*.docstates
+
+# Diretórios específicos do projeto ASP.NET
+wwwroot/lib/
+wwwroot/css/
+wwwroot/js/
+wwwroot/images/
+
+# Arquivos de configuração do ASP.NET Core
+*.json
+*.xml
+appsettings.*.json
